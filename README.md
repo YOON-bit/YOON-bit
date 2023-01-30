@@ -4,6 +4,8 @@
 
 🌱 Backend 개발에 대해서 공부하고 있어요
 
+👯 문제해결, 최적화, 자동화를 좋아해요
+
 ## 💌 Socials
 <a href="https://yoon001.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF4785?style=for-the-badge&logo=Tistory&logoColor=white">
 
